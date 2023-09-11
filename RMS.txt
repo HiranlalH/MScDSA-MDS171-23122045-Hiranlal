@@ -1,0 +1,8 @@
+
+Name = ravi
+Date = 22-4-6
+Item Code = sugar
+Quantity= 70
+Rate = 24500
+GuestCount = 56
+==================================================
