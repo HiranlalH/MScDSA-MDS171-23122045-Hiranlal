@@ -22,5 +22,6 @@ Email:hiranlal.h@science.christuniversity.in
 |7.|17-09-23|lab07|Program of my menu driven restaurant|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal.git
 |8.|-09-23|lab08|Program of Matrix Multiplication| https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/blob/de40eee6d0bb4a6457f7fc102d7f9181f96ad203/lab08.ipynb
 |9.|22-09-23|lab09|Program of Expense Tracker|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/blob/main/lab09.ipynb)
+|10|26-10-23|lab10|Create a Python Class for managing student details|
 |10.|25-10-23|CAC1|Python Project|[CAC1] (Group project)|       
-|11.|25-10-23|CAC2|Python Project|[CAC2]https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/tree/bf915e824408709e4f5cbb34dab6bd805159e9e8/CAC-2
+|11.|25-10-23|CAC2|Python Project|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/tree/bf915e824408709e4f5cbb34dab6bd805159e9e8/CAC-2
