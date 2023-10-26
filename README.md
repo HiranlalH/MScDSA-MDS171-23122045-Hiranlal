@@ -21,7 +21,7 @@ Email:hiranlal.h@science.christuniversity.in
 |6.|11-09-23|lab06|Program of vowel counter|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/blob/c2f673c6be4d4016f43d52e51f5acc5fd7b6c1dc/lab06.ipynb
 |7.|17-09-23|lab07|Program of my menu driven restaurant|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal.git
 |8.|-09-23|lab08|Program of Matrix Multiplication| https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/blob/de40eee6d0bb4a6457f7fc102d7f9181f96ad203/lab08.ipynb
-|9.|22-09-23|lab09|Program of Expense Tracker|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/blob/main/lab09.ipynb)
-|10|26-10-23|lab10|Create a Python Class for managing student details|
+|9.|22-09-23|lab09|Program of Expense Tracker|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/blob/main/lab09.ipynb
+|10|26-10-23|lab10|Create a Python Class for managing student details|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/blob/53cf8179a74837843bb2062c4f11e99d272d0d9e/lab10.ipynb
 |10.|25-10-23|CAC1|Python Project|[CAC1] (Group project)|       
 |11.|25-10-23|CAC2|Python Project|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/tree/bf915e824408709e4f5cbb34dab6bd805159e9e8/CAC-2
