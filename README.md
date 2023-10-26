@@ -12,7 +12,7 @@ Email:hiranlal.h@science.christuniversity.in
 ***
 ## index 
 |SI.no.|Date|File name|Topic|Link|
-|:----:|:----:|:----:|:----:|:----:|
+|:----:|:-----:|:----:|:----:|:----:|
 |1.|23-08-23|lab01|write a program to enter name|(https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal.git)
 |2.|28-08-23|lab02|The name collectors quest|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/blob/c2f673c6be4d4016f43d52e51f5acc5fd7b6c1dc/lab02.ipynb
 |3.|01-08-23|lab03|The Tale of Number's Harmony|https://github.com/HiranlalH/MScDSA-MDS171-23122045-Hiranlal/blob/c2f673c6be4d4016f43d52e51f5acc5fd7b6c1dc/lab03.ipynb
